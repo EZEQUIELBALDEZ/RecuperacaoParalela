@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Senai\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Senai\\.nuget\\packages",
+      "C:\\Users\\Senai.CEPEAS21103952\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Senai.CEPEAS21103952\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
